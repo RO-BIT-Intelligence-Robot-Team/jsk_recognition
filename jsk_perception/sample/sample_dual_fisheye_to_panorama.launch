@@ -3,7 +3,7 @@
 
   <arg name="INPUT_IMAGE" default="/insta360/image_raw" doc="topic name of 360 camera image" />
   <arg name="refine_align" default="false" doc="If true, panorama is improved by refine align process. Note that this process takes a large CPU load." />
-  <arg name="fovd" default="185.0" doc="Camera's Field of View [degree]" />
+  <arg name="fovd" default="140.0" doc="Camera's Field of View [degree]" />
   <arg name="save_unwarped" default="false" doc="Save unwarped fisheye images. This is useful to create MLS grids." />
   <arg name="resolution_mode" default="high" doc="Resolution mode, 'high' or 'low'" />
   <arg name="vital_rate" default="1.0" doc="Rate to determine if the nodelet is in health." />

@@ -6,5 +6,5 @@ blend_param_p_x1: 75
 blend_param_p_x2: 1775
 blend_param_row_start: 590
 blend_param_row_end: 1320
-output_image_width: 4000
-output_image_height: 2000
+output_image_width: 2000
+output_image_height: 1000

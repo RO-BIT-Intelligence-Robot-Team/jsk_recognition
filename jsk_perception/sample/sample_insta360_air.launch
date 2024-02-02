@@ -28,7 +28,7 @@
   <arg name="panorama_image_transport" default="raw"/>
 
   <arg name="vital_rate" default="1.0" />
-  <arg name="gui" default="true" />
+  <arg name="gui" default="false" />
   <arg name="launch_manager" default="true" />
   <arg name="MANAGER" default="insta360_manager" />
 
